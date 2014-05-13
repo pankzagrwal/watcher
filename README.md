@@ -1,4 +1,4 @@
 watcher
 =======
 
-Watches a Folder and correspondingly update other folders . Keep sync between Folders.  
+Watches a Folder and correspondingly update other folders  (any edits on files). Keep sync between Folders.  
